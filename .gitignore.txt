@@ -1,0 +1,2 @@
+# notes only accessible on local obsidian
+notes/**
